@@ -1,5 +1,5 @@
 [build]
-  base = ""
+  base = "web"
   publish = "build/"
   command = "ENV_SILENT=true npm run build"
 
