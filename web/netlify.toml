@@ -1,6 +1,6 @@
 [build]
   base = "web"
-  publish = "web/build/"
+  publish = "build/"
   command = "ENV_SILENT=true npm run build"
 
 [[redirects]]
